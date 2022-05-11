@@ -8,18 +8,18 @@ namespace Math_5._0
 {
     public static class ThemeColor
     {
-        public static List<string> ColorList = new List<string>() { "#3F51B5",
-                                                                    "#009688",
-                                                                    "#FF5722",
-                                                                    "#607D8B",
-                                                                    "#FF9800",
-                                                                    "#9C27B0",
-                                                                    "#F0F8FF",
-                                                                    "#FAEBD7",
-                                                                    "#7FFF00",
-                                                                    "#D2691E",
-                                                                    "#FF7F50",
-                                                                    "#6495ED"
+        public static List<string> ColorList = new List<string>() { "#990000",
+                                                                    "#000099",
+                                                                    "#006600",
+                                                                    "#000066",
+                                                                    "#0000CC",
+                                                                    "#FF0000",
+                                                                    "#003059",
+                                                                    "#FF3300",
+                                                                    "#999900",
+                                                                    "#669999",
+                                                                    "#666633",
+                                                                    "#333399"
 
 
 

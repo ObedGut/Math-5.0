@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Math_5._0.Forms
 {
-    public partial class FormCreditos : Form
+    public partial class Creditos : Form
     {
-        public FormCreditos()
+        public Creditos()
         {
             InitializeComponent();
         }
